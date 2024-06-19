@@ -16,5 +16,7 @@
   "version": "1.0.0",
   "dependencies": {
     "game": ""
-  }
+  },
+
+  "website": "https://mods.vintagestory.at/simplecommands"
 }
