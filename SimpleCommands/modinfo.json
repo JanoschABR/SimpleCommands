@@ -1,0 +1,20 @@
+{
+  "type": "code",
+  "modid": "simplecommands",
+
+  "name": "Simple Commands",
+  "description": "Adds some simple server-side commands: /home, /sethome, /back",
+
+  "authors": [
+    "JanoschR"
+  ],
+
+  "side": "Server",
+  "requiredOnClient": false,
+  "requiredOnServer": true,
+
+  "version": "1.0.0",
+  "dependencies": {
+    "game": ""
+  }
+}
